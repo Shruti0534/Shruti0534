@@ -1,16 +1,25 @@
-## Hi there 👋
+##👋 Hi, I'm Shruti Tiwari!
 
-<!--
-**Shruti0534/Shruti0534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year ECE student at IET Lucknow  
+💻 Frontend Developer at **Stibium Tech**  
+✨ I love building real-world projects and learning new tech every day  
+🔍 Currently focusing on DSA, web development, and open-source
+🤝 Open to collaboration and internship opportunities!
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, Python
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS, MUI, Shadcn Ui
+- **Backend:** Node.js, Prisma ORM, webSocket
+- **Tools:** Git, GitHub, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 LeetCode & DSA
+- Solved **250+** LeetCode questions
+- Practicing data structures and algorithms regularly
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/shruti-tiwari-a8537725a/)
+- [Email](shrutit515@gmail.com)
+
+---
+
+⭐️ *Thanks for visiting my GitHub!*
