@@ -21,7 +21,6 @@
 ## 📊 Stats & Badges
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shruti0534)
-![GitHub followers](https://img.shields.io/github/followers/Shruti0534?label=Follow&style=social)
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/shruti-tiwari-a8537725a/)
