@@ -18,9 +18,11 @@
 
 
 
-## 📊 Stats & Badges
+## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shruti0534)
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti0534&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti0534&layout=compact&theme=radical)
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/shruti-tiwari-a8537725a/)
