@@ -16,6 +16,9 @@
 - Solved **250+** LeetCode questions
 - Practicing data structures and algorithms regularly
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shruti0534)
+
+
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/shruti-tiwari-a8537725a/)
 - [Email](shrutit515@gmail.com)
