@@ -21,6 +21,6 @@
 
 ## 📊 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti0534&show_icons=true&theme=radical)
-![GitHub 
+
 
  Thanks for visiting my github
