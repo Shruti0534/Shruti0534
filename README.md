@@ -21,6 +21,7 @@
 
 ## 📊 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti0534&show_icons=true&theme=radical)
+![GitHub Contribution Snake](https://github.com/Shruti0534/Shruti0534/blob/output/github-contribution-grid-snake.svg)
 
 
  Thanks for visiting my github
