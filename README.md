@@ -21,6 +21,8 @@
 
 ## 📊 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti0534&show_icons=true&theme=radical)
-![GitHub Contributors](https://img.shields.io/github/contributors/Shruti0534/Shruti0534)
+![GitHub Contributors](https://img.shields.io/github/contributors/Shruti0534/Shruti0534) 
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti0534&show_icons=true&theme=radical)
+
 
  Thanks for visiting my github
