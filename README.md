@@ -3,7 +3,6 @@
 ##👋 Hi, I'm Shruti Tiwari!
 
 🎓 3rd-year ECE student at IET Lucknow  
-💻 Frontend Developer at **Stibium Tech**  
 ✨ I love building real-world projects and learning new tech every day  
 🔍 Currently focusing on DSA, web development, and open-source
 🤝 Open to collaboration and internship opportunities!
