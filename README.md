@@ -63,15 +63,7 @@ Exploring **Web Development**, **DSA**, and **Machine Learning**
 
 ---
 
-##  Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [ Zerodha Clone](https://github.com/Shruti0534/Zerodha-Clone) | A stock trading dashboard inspired by Zerodha with live chart UI | React, Tailwind, Node.js |
-| [Annabridge Meet](https://github.com/Shruti0534/Annabridge-Meet) | Real-time video conferencing web app | React, WebRTC, Socket.io |
-| [ Sales Trend Analysis](https://github.com/Shruti0534/Sales-Trend-Analysis) | ML-powered data analysis on Amazon product data | Python, Pandas, Matplotlib |
-
----
 
 ##  GitHub Stats (Auto Light/Dark Theme)
 
