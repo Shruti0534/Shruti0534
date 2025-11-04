@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
  **3rd-year ECE Student at IET Lucknow**  
  Passionate about building impactful real-world projects and contributing to open source  
@@ -103,7 +103,7 @@
 
 ---
 
-## 🌈 Motion Gradient Footer  
+
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -113,7 +113,7 @@
 
 <div align="center">
   
-✨ _“The best way to predict the future is to create it.”_ ✨  
+ _“The best way to predict the future is to create it.”_ 
 
 💬 Let's connect —  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shruti-tiwari) 
