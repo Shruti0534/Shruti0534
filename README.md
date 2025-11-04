@@ -44,21 +44,22 @@ Exploring **Web Development**, **DSA**, and **Machine Learning**
 
 ##  Achievements & Badges
 
-###  Hacktoberfest 2025 Badges
+## 🏅 Hacktoberfest 2025 Badges
 
-| Badge | Badge ID |
-|:------|:----------|
-| ![Badge 1](https://www.holopin.io/hacktoberfest2025/userbadge/cmhac4dqp0029ju043tvyci1b) | `cmhac4dqp0029ju043tvyci1b` |
-| ![Badge 2](https://www.holopin.io/hacktoberfest2025/userbadge/cmhk35a5o004hl504e26x7b3c) | `cmhk35a5o004hl504e26x7b3c` |
-| ![Badge 3](https://www.holopin.io/hacktoberfest2025/userbadge/cmhk37k0e005al504hwu17q4a) | `cmhk37k0e005al504hwu17q4a` |
-| ![Badge 4](https://www.holopin.io/hacktoberfest2025/userbadge/cmhk37jxc0059l504j530rr8o) | `cmhk37jxc0059l504j530rr8o` |
-| ![Badge 5](https://www.holopin.io/hacktoberfest2025/userbadge/cmhk39b0a004dl404z7b37rxs) | `cmhk39b0a004dl404z7b37rxs` |
-| ![Badge 6](https://www.holopin.io/hacktoberfest2025/userbadge/cmhk36o0l004vl5047h6tzmgn) | `cmhk36o0l004vl5047h6tzmgn` |
-| ![Badge 7](https://www.holopin.io/hacktoberfest2025/userbadge/cmhk39ayg004cl404605dvbyd) | `cmhk39ayg004cl404605dvbyd` |
+<p align="center">
+  <img src="https://holopin.me/cmhac4dqp0029ju043tvyci1b" width="100" /> 
+  <img src="https://holopin.me/cmhk35a5o004hl504e26x7b3c" width="100" />
+  <img src="https://holopin.me/cmhk37k0e005al504hwu17q4a" width="100" />
+  <img src="https://holopin.me/cmhk37jxc0059l504j530rr8o" width="100" />
+  <img src="https://holopin.me/cmhk39b0a004dl404z7b37rxs" width="100" />
+  <img src="https://holopin.me/cmhk36o0l004vl5047h6tzmgn" width="100" />
+  <img src="https://holopin.me/cmhk39ayg004cl404605dvbyd" width="100" />
+</p>
 
 🎉 Proud participant of **Hacktoberfest 2025** — contributing to open source and learning by doing!
 
 [![Shruti's Holopin Board](https://holopin.me/shruti0534)](https://holopin.io/@shruti0534)
+
 
 ---
 
