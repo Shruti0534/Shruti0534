@@ -116,8 +116,9 @@
  _“The best way to predict the future is to create it.”_ 
 
 💬 Let's connect —  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shruti-tiwari) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shruti-tiwari-a8537725a/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shruti0534)
+
 
 </div>
 
