@@ -59,20 +59,7 @@
 
 <br/>
 
-###  Individual Badge IDs  
 
-| Badge | Badge ID |
-|:------|:----------|
-| ![Badge 1](https://holopin.io/api/userbadge/cmhac4dqp0029ju043tvyci1b) | `cmhac4dqp0029ju043tvyci1b` |
-| ![Badge 2](https://holopin.io/api/userbadge/cmhk35a5o004hl504e26x7b3c) | `cmhk35a5o004hl504e26x7b3c` |
-| ![Badge 3](https://holopin.io/api/userbadge/cmhk37k0e005al504hwu17q4a) | `cmhk37k0e005al504hwu17q4a` |
-| ![Badge 4](https://holopin.io/api/userbadge/cmhk37jxc0059l504j530rr8o) | `cmhk37jxc0059l504j530rr8o` |
-| ![Badge 5](https://holopin.io/api/userbadge/cmhk39b0a004dl404z7b37rxs) | `cmhk39b0a004dl404z7b37rxs` |
-| ![Badge 6](https://holopin.io/api/userbadge/cmhk36o0l004vl5047h6tzmgn) | `cmhk36o0l004vl5047h6tzmgn` |
-| ![Badge 7](https://holopin.io/api/userbadge/cmhk39ayg004cl404605dvbyd) | `cmhk39ayg004cl404605dvbyd` |
-
-
----
 
 
 ##  GitHub Stats  
